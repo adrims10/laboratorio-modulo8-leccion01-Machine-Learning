@@ -1,1 +1,1 @@
-# laboratorio-modulo8-leccion01-Machine-Learning
+# laboratorio-modulo8-leccion01-regresiones
